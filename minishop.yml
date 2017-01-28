@@ -36,7 +36,7 @@ items:
    # Potions can be different types and Extended, Splash or ExtendedSplash.
    # Format extra: NAME:<LEVEL>:<EXTENDED/NOTEXTENDED>:<SPLASH/NOSPLASH>:QTY
    # LEVEL, EXTENDED and SPLASH are optional. If they are left blank, any is acceptable
-   # LEVEL is a number, normally 1 or 2
+   # LEVEL is a number, normally 1 or 3
    # Examples:
    # POTION:STRENGTH:1:EXTENDED:SPLASH:1
    # POTION:JUMP:2:NOTEXTENDED:NOSPLASH:1
